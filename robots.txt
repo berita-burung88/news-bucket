@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-burung88.github.io/news-bucket/sitemap.xml
